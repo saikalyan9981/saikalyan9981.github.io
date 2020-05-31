@@ -1,6 +1,7 @@
 #  \[Hobbies]\[Goals] to achieve
 
-**Nothing interesting to read for others. This is for myself**
+**Nothing interesting to read for others. This is for myself. Don't waste your time reading this **
+
 [Track](https://docs.google.com/spreadsheets/d/1clyBS1t2I_aayJLPG5J93GC2KeqjbVH5MA8SJ0QfOBQ/edit#gid=0)
 
 ## Discipline
