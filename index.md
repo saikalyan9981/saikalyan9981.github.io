@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width
 title: Sai Kalyan Siddanatham
 ---
 
@@ -14,9 +14,8 @@ Work: Research Scientist Intern, Nuance-Microsoft; Machine Learning Engineer, Hi
 Interests: Software Engineering, Machine Learning Engineering, Data Engineering
 -->
 
+<h1>Sai Kalyan Siddanatham</h1>   
 
-
-|   |     |
 |:-:|:---:|
 | <img src="assets/img/IMG_6173.JPG" width="300"/> | **Education:**<br>2023 - Masters CS, University of Montreal (Mila)<br>2020 - Bachelor's CS, IIT Bombay<br><br>**Work:**<br>Research Scientist Intern, Nuance-Microsoft<br>Machine Learning Engineer, Hilabs<br><br>**Interests:**<br>Software Engineering<br>Machine Learning Engineering<br>Data Engineering |
 
