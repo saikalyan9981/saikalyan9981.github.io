@@ -30,7 +30,7 @@ I am a recent graduate from University of Montreal(Mila) with a Master's in Comp
 
 ## Writes:
 ---
-[**Intro to Kubernetes**](https://haselivity.github.io/kubernetes-intro): Introduction to Kubernetes based on Youtube [videos](https://www.youtube.com/@meganokeefe9273/videos) from [Megan O'Keefe](https://github.com/askmeegs). 
+[**Intro to Kubernetes**](https://saikalyan9981.github.io/kubernetes-intro): Introduction to Kubernetes based on Youtube [videos](https://www.youtube.com/@meganokeefe9273/videos) from [Megan O'Keefe](https://github.com/askmeegs). 
 
 *How Cloud Works, Containers, Kubernetes Basics, Software Development, Observability, Security, Design Patterns.*
 
